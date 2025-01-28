@@ -1,14 +1,3 @@
-"""
-# Atividade da disciplina Modelagem e Análise de Sistemas Dinâmicos (DCA0110)
-
-# Componentes:
- - Pedro Henrique Leite dos Santos
- - Edson Augusto Dias Gomes
- - Luiz Gustavo Bezerra Rodrigues
- - Joanderson Luan da Silva Linhares
-
-"""
-
 import pandas as pd
 
 
